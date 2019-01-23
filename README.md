@@ -4,3 +4,4 @@
 
 
 1. **《ES6-in-depth》**    百度云盘： [https://pan.baidu.com/s/19fQDeZut3eMWuoR5iKU5VQ](https://pan.baidu.com/s/19fQDeZut3eMWuoR5iKU5VQ)
+2. **《图解HTTP完整版》**    百度云盘： [https://pan.baidu.com/s/1sc37gh3qw63Lw4CUq9e7lg](https://pan.baidu.com/s/1sc37gh3qw63Lw4CUq9e7lg)
